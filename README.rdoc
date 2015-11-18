@@ -2,4 +2,4 @@
 
 A rails based To-Do list application with jquery UI integration for a UX similar to that of Trello.
 
-Ironically, this project was tabled and is not actaully finished.
+Update (11/18): Ironically, this project was tabled and is not actaully finished, but will be going back in to development soon.
